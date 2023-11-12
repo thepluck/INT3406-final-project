@@ -1,0 +1,11 @@
+.vscode/
+.ipynb_checkpoints/
+.virtual_documents/
+checkpoints/
+VnCoreNLP/
+phobert-base-v2/
+SentimentPhoBERT/
+SentimentPhoBERT-LoRA-150/
+SentimentPhoBERT-LoRA-256/
+raw_data/
+raw_data.zip

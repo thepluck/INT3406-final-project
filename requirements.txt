@@ -1,0 +1,5 @@
+python==3.9
+accelerate==0.24.1
+datasets==2.14.6
+evaluate==0.4.1
+transformers==4.35.0
