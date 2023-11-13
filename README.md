@@ -4,7 +4,7 @@ Our work for INT3406 - Natural Language Processing final assignment
 
 ## Install
 
-1. Create conda environment.
+1. Create conda environment with python 3.9.
 2. Install required libraries by using this command:
 ```
 pip install -r requirements.txt
