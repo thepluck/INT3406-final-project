@@ -1,0 +1,428 @@
+Không_gian quán đẹp . Vị_trí thuận_lợi đi_lại . Nhân_viên phục_vụ ổn . Tuy_nhiên order xong đợi ~ 30 ' đồ_ăn . Đồ_ăn ngon đẹp_mắt , chất ok hơi xíu . Mà giá menu VAT : ) ) ) )
+{'label': 'LABEL_0', 'score': 0.5183637738227844}
+0.625
+LABEL_1
+Mới tủ bánh thik lắm ^ ^ toàn bánh cute . Mình bao h bánh cầu_vồng , quyết_định mua thử , đc , ko j Nuớc gọi mojito kiwi uống vô chanh nhìu , kiwi tí , 35k uống 2 3 hớp : (
+{'label': 'LABEL_1', 'score': 0.5180168747901917}
+0.0
+LABEL_0
+Mình trà đào ngon uống lắm ok , đào hơi mấy chổ hương nchung tầm giá ok . Sẽ ghé thường_xuyên .
+{'label': 'LABEL_0', 'score': 0.562691867351532}
+0.3125
+LABEL_0
+Không_gian rô ̣ ng ̃ i Ra ̣ p bi ̀ nh thươ ̀ ng Gia ́ ve ́ re ̉ , gia ́ nươ ́ c re ̉ ca ́ c ̣ p kha ́ c
+{'label': 'LABEL_0', 'score': 0.5114076733589172}
+0.0
+LABEL_1
+Quán trang_trí dễ_thương . hơi . Chị nhân_viên hơi dễ_thương tư_vấn đồ uống nhiệt_tình cực . Trà sữa ngon order 1 ly đem hơi choáng . Thạch trà sữa . Đem đổ xe . Trà uống ko lắm vị trà âm_hưởng uống xong . Mà quán tích trà sữa . Nên hẹn quán hơi .
+{'label': 'LABEL_1', 'score': 0.5129023194313049}
+-0.25
+LABEL_0
+Mình chổ thích_hợp 2 3 . Món 1 dĩa hình giá 110k . Dùng mồi nhắm_nháp uống bia no . Bia 1 tháp 300k . Nhóm đi 6 uống 4 tháp . Hao bia ! ! !
+{'label': 'LABEL_0', 'score': 0.5660175681114197}
+0.875
+LABEL_0
+Gọi ly hồng trà uống thử , hot & cold uống trà sữa hoài ngán . Uo6ngg1 thử ngon lắm , uống thử lục trà coi . Phục_vụ dễ_thương , nói_chuyện nhỏ_nhẹ .
+{'label': 'LABEL_0', 'score': 0.530083179473877}
+0.1
+LABEL_0
+2 hộp cơm yêu lắm ! m đói đợi hơi lun ... . kk . cơm m đẹp tàm_tạm ko vừa_miệng lắm ... . quán ổn trang_trí ... . m cảm_giác hơi bí ... . ah quán truyện_tranh đọc đợi cơm đợi cơm 30-45 phút lận . nhân_viên nhiệt_tình , dễ_thương ! 😊 😊 😊
+{'label': 'LABEL_0', 'score': 0.552918553352356}
+0.2916666666666667
+LABEL_1
+Chỉ 1 câu : ngon . Tuần ko 1 thèm ko
+{'label': 'LABEL_0', 'score': 0.5766364932060242}
+0.375
+LABEL_0
+Thấy quán bánh dễ_thương like page quán . Gặp chưing trình khuyến_mãi nhắn_tin facebook thể_lệ nhân_viên tư_vấn thái_độ hết_sức thiện_cảm kiểu đi mua đồ km đi ko chương_trình km mua bánh may phước lắm . Chắc nhân_viên quán học bánh hok đc học đạo_đức
+{'label': 'LABEL_0', 'score': 0.5910788774490356}
+0.5625
+LABEL_1
+không_gian biển tuyệt , tắm biển gọi đồ_ăn đồ uống , tiện_lợi . giá đắt thực_đơn đa_dạng .
+{'label': 'LABEL_0', 'score': 0.5741065740585327}
+0.6
+LABEL_0
+Dành teen , học_sinh . Quán đông buổi_trưa . Thấy_Tokbokki kimbap tạm dc món rán lẩu nương bình_thường . Kimchi . Trời mưa gọi ship tiện . HP đồ Hàn đích thưc So phung văn ngon .
+{'label': 'LABEL_0', 'score': 0.5386275053024292}
+0.25
+LABEL_1
+Giá vé Platinum rẻ CGV , 5 giá 55k kiểu khuyến_mại sinh_viên , couple ... . Chất_lượng ổn , âm_thanh lắm . Một ưng lắm 10h suất chiếu ( Royal_City 9 rưỡi mở_cửa ) . Phim chiếu muộn , trưa dở_dang . À không_gian hơi hẹp
+{'label': 'LABEL_1', 'score': 0.5417252779006958}
+0.0
+LABEL_0
+Hôm_qua đi pizza inn tôm cỡ trung 175k bánh mõng viền . Bánh dai mềm o dòn , mún no bánh dày , mấy e phục_vụ mặt bùn ngũ nãn . Nên đi pizza hut SET ngon bổ rẽ .
+{'label': 'LABEL_1', 'score': 0.5037258267402649}
+0.0
+LABEL_1
+Rạp xịn , mấy đồ trang_trí chụp ảnh . Chỉ nhân_viên phục_vụ hơi chảnh .
+{'label': 'LABEL_1', 'score': 0.5121147632598877}
+0.0
+LABEL_0
+Vị_trí đối_diện kênh đen hôi_rình . Quán phục_vụ nước_lọc miễn_phí ấn_tượng : ) , quán cafe bắt camera khu_vực cảm_giác thoải_mái .
+{'label': 'LABEL_1', 'score': 0.5950040221214294}
+-0.25
+LABEL_1
+Hôm_kia chè , mua 10 bịch máy_bay Hàn_Quốc con_gái . Mặt tui như_vầy nè ! O_ O
+{'label': 'LABEL_1', 'score': 0.5437794923782349}
+0.0
+LABEL_0
+Nc mỳ thơm , sợi mỳ giai , thịt mềm mềm thik : x chỗ quán hơi bất_tiện , hôm đông chờ : (
+{'label': 'LABEL_1', 'score': 0.5268504023551941}
+-0.08333333333333333
+LABEL_1
+Nhân_viên phục_vụ đangs yêu , đồ_ăn ổn , chỗ hẹp . Không đứng đợi hàng_lối đàng_hoàng .
+{'label': 'LABEL_0', 'score': 0.5904489755630493}
+0.1875
+LABEL_0
+Bánh_canh ghẹ 1 tô ko : ) Mỗi tô đc 1 ghẹ & chả cá . Soup nóng , tiêu cay_cay , vị ghẹ tươi . Soup nêm , 😘 1 tô v 35-45k ( ko nhỡ giá )
+{'label': 'LABEL_0', 'score': 0.5401136875152588}
+0.5625
+LABEL_0
+Tàu hủ đá hương_vị , , béo , ăn_không cảm_giác ngán . Chè bưởi tạm ổn . Sữa_chua ủ lọ thủy_tinh đẹp hợp vệ_sinh . Giá_cả chút_ít 8.000đ/ly . Nói_chung chất_lượng túi_tiền . Đáng thử !
+{'label': 'LABEL_0', 'score': 0.5873751640319824}
+0.625
+LABEL_0
+Đi hôm khai_trương giảm_giá 20% Quán y 3 ngon tặng rau nước_ngọt Bò né : kèm bò lửa hồng , chả , xúc_xích , nem , pate hk ngon lắm bò khô , mấy món kèm hk đc ngon . Hôm đông quên đem salat Bò kho : thơm ngon , đậm vị , bò Khoai_tây : 10k lắm giòn giòn Không_gian tầng 2 bụi , hk thích_hợp lắm . Do chỗ Nếu bò kho
+{'label': 'LABEL_0', 'score': 0.500933825969696}
+0.25
+LABEL_1
+- Sorry quên , món chả cốm
+{'label': 'LABEL_1', 'score': 0.5717794895172119}
+0.0
+LABEL_0
+• Menu phong_phú , decor đơn_giản . • Có món giá hợp_lý lắm ( : bơ dằm 55k , bia 30k/lon , ... ) , quán tầm giá giá ý_kiến . • Đặc_Biệt quán Cafe Vàng : cafe sữa bình_thường 26k uống Vàng 17k , tương_tự cafe đá 22k Vàng 14k .
+{'label': 'LABEL_0', 'score': 0.5637910962104797}
+0.25
+LABEL_1
+Hình_như quán nguyên phong_cách decor Hungry Z , quen_quen Trà sữa ngon , 22k to vật_vã , uống xong nhét bụng ; D
+{'label': 'LABEL_0', 'score': 0.572111964225769}
+0.375
+LABEL_0
+Thiệt , hồi Đỗ_Ngọc 2 chén , 1 khúc bạch truyền_thống , 2 khúc bạch trà xanh , Vải . Gần ngon , lạc đi . Menu update , món
+{'label': 'LABEL_1', 'score': 0.5534870028495789}
+-0.1875
+LABEL_1
+Bánh_cuốn tráng nóng_hổi , hàn_the bánh mỏng , mềm . Trước_kia quán 15k/suất , tăng_giá 20k/suất 1 . Cơ_mà hồi đấy 15k/suất rẻ kinh_khủng í , mãi quán tăng_giá . Nhà đấy phát sợ = ) ) )
+{'label': 'LABEL_1', 'score': 0.5419536828994751}
+-0.125
+LABEL_0
+Cũng_như chi_nhánh Highlands_Coffee giá hơi chát thức uống bánh ngon . Không_gian rộng thoáng .
+{'label': 'LABEL_1', 'score': 0.5751617550849915}
+0.0
+LABEL_0
+Quán dễ_thương . nhân_viên lịch_sự . đem bánh kem sinh nhat thu phí 30% . moi quán cf . quán cf cầm bánh kem kêu đĩa bánh kem kìa .
+{'label': 'LABEL_1', 'score': 0.5531902313232422}
+-0.625
+LABEL_1
+đi nhà_thờ thèm ly bạc xỉu ghé liền quán cafe tranh . không_gian quán thoáng nhân_viên vui_vẻ niềm_nở vs ... cafe uống tạm ngon lắm . đông chờ hơi ... . thưởng ngoạng tranh sảng_khoái ... ...
+{'label': 'LABEL_0', 'score': 0.5732235312461853}
+0.4375
+LABEL_0
+Lẩu nấm ngon . Nếu Vũng_Tàu ghé . Địa_chỉ hình_như hơi . Mình tưởng quán nằm trung_tâm thương_mại . Hình_như địa_chỉ 23G4 đường Nguyễn_Thái_Học , thành_phố Vũng_Tàu
+{'label': 'LABEL_1', 'score': 0.5747638940811157}
+-0.125
+LABEL_0
+Mình mấy đứa pizza ốc quế , vỏ bánh ngon , nhân hải_sản tươi . Nhưng chỗ xe_hơi
+{'label': 'LABEL_0', 'score': 0.5091392397880554}
+0.5
+LABEL_1
+rẻ ngon . Ăn bột chủ_yếu , rẻ ngon
+{'label': 'LABEL_0', 'score': 0.578326404094696}
+0.0625
+LABEL_1
+Thấy foody giới_thiệu , yaourt dẻo cacao ngon , trái_cây bt k đặc_sắc . Ngồi ngoài_trời , không_gian yên_tĩnh yaourt thoải_mái : D
+{'label': 'LABEL_0', 'score': 0.5145843029022217}
+0.375
+LABEL_1
+Không quẩy béo quẩy khổng_lồ : ) ) to dã_man : p Đi hai gọi 2 hơi hơi no . Nhớ hôm đầu ăn_không gọi hẳn 5 , , ăn_không nổi gói : 3 khuyến_mãi mua 5 tặng 1 : ) ) Phục_vụ nhanh_nhẹn , gọi phát đồ_ăn , chờ . Chỉ ko chỗ , vỉa_hè k thoải_mái lắm . Nói_chung : 3
+{'label': 'LABEL_0', 'score': 0.5938023924827576}
+0.375
+LABEL_0
+Bánh crepe ngon tronh hàng crepe . Đồ uống ngon đắt
+{'label': 'LABEL_0', 'score': 0.5383497476577759}
+0.375
+LABEL_0
+Chỗ game escape the room , ấn_tượng phòng 3 thắng dc phòng . Decor ổn weescape , dựng logic cao_trào , nội_dung ok . Mỗi_tội giảm_giá cảm_giác chả , đi đỡ thiệt_hơn đi trc .
+{'label': 'LABEL_0', 'score': 0.527334451675415}
+0.3125
+LABEL_0
+1 Nhưng không_gian rộng mênh_mông , thiết_kế đẹp giá vé rẻ mấy chỗ , hehee
+{'label': 'LABEL_0', 'score': 0.5271239876747131}
+0.625
+LABEL_0
+Mình thèm bún_chả cá mấy đứa giới_thiệu quán Toải ngon lắm lắm dịp 4 kéo thử ngon thiệt bún đậm_đà chả công_nhận ngon mấy quán giá rẻ bèo , tô ăn_không .
+{'label': 'LABEL_0', 'score': 0.5511757135391235}
+0.40625
+LABEL_0
+Đồ_ăn , cơm trộn đừng tép ngon , xiên nướng , cay chút tuyệt_cú mèo , mấy phụ vụ , hình_như đồ , kêu liền : 3
+{'label': 'LABEL_0', 'score': 0.5105769038200378}
+0.4875
+LABEL_1
+Nước đậm_đà , giá sinh_viên ... Mang đi giá . . Ngoài_ra quán lưu_niệm thổ_cẩm , không_gian thoải_mái hơi
+{'label': 'LABEL_1', 'score': 0.5767925381660461}
+0.0
+LABEL_0
+Mình món mì thịt heo cay , mịn món , giá mì tương_đối , nhân_viên dễ_thương thân_thiện .
+{'label': 'LABEL_0', 'score': 0.5434715747833252}
+0.625
+LABEL_0
+Mình món trà sữa , uống Ding_Tea chỗ ko uống . Nguyên_liệu đc quảng_cáo nhập Đài_Loan , công_thức nguyên bản_địa uống ko thơm mùi trà . Trân_châu thạch xoài tuyệt . Hi_vọng quán mở_rộng chi_nhánh uống ko đi
+{'label': 'LABEL_0', 'score': 0.5554018616676331}
+0.075
+LABEL_0
+Quán hơi đi nhầm đường đc quán uổng công chút ( y ) hôm_nay combo 155k : 2 pizza , 1 khoai_tây lắc , 1 biển tình ( đổi thành matcha đá ) , 1 smoothies ( y )
+{'label': 'LABEL_0', 'score': 0.5253313779830933}
+0.0
+LABEL_0
+Đầu_tiên quán đông xếp_hàng chờ . Không_gian lịch_sự . Thịt ngon thơm sốt mỡ tiq đỡ ngán . Thịt nướng giá hơi món . Còn mấy món nhà_hàng mắc lắm . Có 5 pancha miễn_phí thoải_mái . Nước tầm 30k-50k . Cuối_cùng món ráng miệng pannacotta béo thơm lắm thử .
+{'label': 'LABEL_0', 'score': 0.5015373826026917}
+0.21875
+LABEL_0
+Đây 1 quán bún hến ngon . Mình vị , nước_mắm sệt sệt vị mặn , ớn , rau môn kèm tươi , tóp_mỡ người_ta mua chợ , ăn_không mùi dầu quán . Ngoài_ra mì_tôm hến , ngon lạ lắm
+{'label': 'LABEL_0', 'score': 0.540272057056427}
+0.325
+LABEL_0
+mh thík đồ uốg . mojito đẹp , ngon , rẻ . mỗi_tội mh thườg đi muộn chỗ tầg , toàn pải .
+{'label': 'LABEL_0', 'score': 0.5320955514907837}
+0.5
+LABEL_0
+Mới đi hôm_qua 2 thằng . Chắc 7 quán đông . Tuy bàm phục_vụ . ang đồ nướng ko chén_đũa khăn j . Đợi tụ đi . Đến nướng ko j chấm đợi . Nhưng đồ nướng ngon , đậm_đà , món bạch_tuộc
+{'label': 'LABEL_0', 'score': 0.501011312007904}
+0.4375
+LABEL_1
+Mình mấy đầu , sát PL , ngta bu đông xếp_hàng mua , tò_mò mua uống thử Kết li cute nè Vị green tea hẳn chỗ , vị trà xanh vị sữa , sữa vị , dc 4 viên thạch trà xanh . Nhưng , đá Thấy ko nghiện , đổi khẩu_vị uống : )
+{'label': 'LABEL_1', 'score': 0.596083402633667}
+-0.75
+LABEL_1
+Món ngon , nhà_hàng đẹp : 3 giá hơi nhe , chi_phí tầm 300-400k / 2 : D
+{'label': 'LABEL_0', 'score': 0.5959044098854065}
+0.5
+LABEL_0
+Hôm chạy ngang quán quảng_cáo lẩu 99.000 / 4 . Thấy lạ vô thử 2 dạng : dạng 99.000/lẩu dạng 119.000/lẩu . Tưởng chơi_chơi đồ_ăn , gọi thử chẳng hy_vọng ngon , đồ_ăn . Có kêu món cá_lóc , gỏi bò , khô nai ngon . Ngay trung_tâm 3 giá OK . Good ! Good ! P . S : Mặt_tiền hơi , chạy kịp !
+{'label': 'LABEL_0', 'score': 0.5130858421325684}
+0.041666666666666664
+LABEL_0
+Ngon , re ̉ , chu ̉ la ̣ i nhiê ̣ t ti ̀ nh chi ̉ đươ ̀ ng nư ̃ a , thi ́ ch ̉ lă ́ m . Lâ ̀ n na ̀ o xuô ́ ng Sa_Đe ́ c cu ̃ ng ghe ́ . Tuy_nhiên ́ n hơi nho ̉ kho ́ ti ̀ m ban đâ ̀ u 1 ty ́ .
+{'label': 'LABEL_0', 'score': 0.5173924565315247}
+0.0
+LABEL_0
+Hôm đấy đi , mặt bàn đồ chật đĩa bát đựng đồ_ăn to . Các bàn kê thoáng thích_hợp . Quán ống_khói thoát mùi không_gian thoáng_đãng bám mùi mặc_dù bếp nướng quán . Nhóm gọi nửa pizza cá_hồi nửa mực , bánh_cắt sáu miếng chia . Salad tôm bơ rau sốt kèm ngon , rau củ lạ . Và mỳ sốt bò băm cheese . Pizza đế bánh mềm nướng cháy , thịt cá_hồi cán mỏng dậy vị , miếng mực be_bé nêm gia_vị ngon hợp miếng rong_biển cắt . Các món tráng_miệng giá . Nhân_viên nhiệt_tình giải_thích menu , đồ_ăn chậm , tầm 15 ' .
+{'label': 'LABEL_1', 'score': 0.5615527629852295}
+-0.15384615384615385
+LABEL_1
+Quán dễ_thương . Thức_ăn tạm ổn , nhân_viên thân_thiện vui_vẻ .
+{'label': 'LABEL_0', 'score': 0.5939275026321411}
+0.16666666666666666
+LABEL_1
+Món quán đặc_sắc lắm , bù quán không_gian rộng , mát . Nhân_viên nhanh_nhẹn , tận_tình . Đến quán món nướng lẩu lẩu nhạt lắm .
+{'label': 'LABEL_1', 'score': 0.5549638271331787}
+-0.125
+LABEL_0
+Quán ngon rẻ . . Chả cá vs thịt giò ngon . . đậm_đà gọi bánh_canh giò Đứa gọi bún chả_giò . . Giá dao_động 24-30k.thôi Tô 45k . . thử k
+{'label': 'LABEL_0', 'score': 0.5309325456619263}
+0.4166666666666667
+LABEL_0
+Cháo nấm ngon , giá_cả . Lẩu nấm ok . Mỗi_tội chờ hơi
+{'label': 'LABEL_0', 'score': 0.5198988318443298}
+0.375
+LABEL_0
+Mình tiramisu socola đen , hấp_dẫn selfie liền . . đc 3 kem chảy tiu : ) ) tiramisu đc topping vs mix socola vui kem vs bánh lẫn kì kì . . vị kem ko bằg kem lotte ( ý_kiến chủ_quan ) socola đen chuẩn sôcla , tạm . . mấy que trưng_bày bự , kem chút_xíu hà 😅 Lâu_lâu ăn_chơi bik thử đc ^ ^
+{'label': 'LABEL_0', 'score': 0.5530742406845093}
+0.5
+LABEL_1
+Xiên nướg ngon , cay xé mỏ đổ mồ_hôi hột . . Trsữa thơm ok lắm ! K gian thoág nv thươg
+{'label': 'LABEL_1', 'score': 0.5203294157981873}
+-0.09375
+LABEL_0
+đi chỗ 2 , 3 . chỗ ok , sạch_sẽ . Giá vé chấp_nhận . nhân_viên thân_thiện : ) . Hum 3D hơi tốn ( 120k / 1 vé ) .
+{'label': 'LABEL_0', 'score': 0.5737782120704651}
+0.5625
+LABEL_0
+Mình quán hồi gốc phố Hàng_Cân Hàng Đồng_hương vị , thơm mùi cua , đậm đà kiểu lẫn vị . Giá 1 bát bánh đa cua ko giò bò chả ca 15k , 1 giò 5k , chả cá ko 25k
+{'label': 'LABEL_1', 'score': 0.5262246131896973}
+-0.1875
+LABEL_0
+Đi ngang mấy hôm_qua dịp thử , gấp kêu đại 1 xôi gà . Đứng xôi ko ngon ko , dòm lạ hấp_dẫn . Xôi gà kêu 13k ngon chất_lượng . Thơm mùo lá chuối , xôi ko nấu thơm dừa dẻo . Chắc_chắn mai 👍 👍 👍
+{'label': 'LABEL_0', 'score': 0.5563794374465942}
+0.15625
+LABEL_0
+Kupbab bò kho ngon ^ ^ cơm trộn sốt đấy ngon mỗi_tội chờ hơi bò kho ^ ^
+{'label': 'LABEL_0', 'score': 0.5456196069717407}
+0.08333333333333333
+LABEL_1
+Quán trường , trông cực cutoe bắt_mắt í . Cappucino hơi mặt_bằng . Bạn gọi matcha , bảo hơi , quán . Giá_cả vs sinh_viên , không_gian yên_tĩnh , đàn ghita vô phiêu chút chút
+{'label': 'LABEL_1', 'score': 0.5583941340446472}
+-0.75
+LABEL_0
+sài gòn đồ nướng
+{'label': 'LABEL_0', 'score': 0.5408619046211243}
+0.0
+LABEL_0
+Quán đầu ghé vô thưởng_thức , khen ngon , vô thử , đầu bình_thường , 2 quán hẵn , khác_lạ , phục_vụ , đi quên ví , nhân_viên , trã , quán mô_hình k , phục_vụ thần qá r , nhân_viên xe , xong dắt , vui_vẻ hòa_đồng . Các 2 , ghé nha , quán món lắm , bữa vô k lựa . ! : )
+{'label': 'LABEL_0', 'score': 0.5791102051734924}
+0.125
+LABEL_0
+Các món nướng đa_dạng , thường_xuyên , menu tham_khảo nhìu món ko . Món nướng ướp gia_vị hơi cay . Sò lông nướng mỡ hành ngon tuyệt , sò mập to . Nem chạo tôm ko ngon lắm . Còn lẩu ko ngon . Tàu hủ ki kèm lẩu cao_su ghê_ghê ( ko bik ko hjc ) .
+{'label': 'LABEL_0', 'score': 0.5248077511787415}
+0.4
+LABEL_1
+Trạm dừng chân đi chợ_nổi tàu bến Ninh_Kiều . Khá sạch_sẽ , món bình_dân , cà_phê dỡ . Ngồi chợ_nổi Cái Răng thuê ghe du_lịch quầy giá 150k lang_thang chợ_nổi . Cũng xuất_phát chợ An_Bình chợ dơ , tiện tiếp nước_ngoài .
+{'label': 'LABEL_0', 'score': 0.5391914248466492}
+0.125
+LABEL_1
+Quán dời địa_điểm khang_trang , rộng_rãi đẹp khu cũ . Mọi món mì quảng cá_lóc lẫn .
+{'label': 'LABEL_0', 'score': 0.5689969658851624}
+0.625
+LABEL_0
+Tuyệt . Tuy k lắm cảnh đẹp . Đồ uống ngon . Nói_chung ok
+{'label': 'LABEL_0', 'score': 0.5227494239807129}
+0.375
+LABEL_0
+Gà ngon giá kfc . Thịt mềm khô . Không_gian bắt_mắt . Nước_ngọt . Ăn hai 200k . No .
+{'label': 'LABEL_1', 'score': 0.5015534162521362}
+-0.25
+LABEL_0
+Quán hơi trang_trí cực đẹp . Đi 2h45 trời nắng hắt khủng_khiếp 😭
+{'label': 'LABEL_0', 'score': 0.5784205198287964}
+0.25
+LABEL_0
+Cho thắc_mắc : nha_khoa ~ _ ~
+{'label': 'LABEL_1', 'score': 0.5515149831771851}
+0.0
+LABEL_1
+Chị mua k n ts ổn thơm thơm mùi hoa nhài , k . Giá_cả hợp_lý
+{'label': 'LABEL_0', 'score': 0.5827747583389282}
+0.5
+LABEL_1
+Đồ_ăn ok bò hơi cứng đà_điểu vs khoai_tây nghiền ngon , kiểu bít tết bò mềm ngon : ) giá tạm ổn , phục_vụ thân_thiện : ) ko gian hợp nh ? Cuộc nói_chuyện , ko làm_phiền : )
+{'label': 'LABEL_0', 'score': 0.5730434656143188}
+0.025
+LABEL_0
+Đây rạp có_giá sinh_viên , trung_tâm . Có_điều rạp hơi âm_thanh lắm , tiền_nào_của_nấy . Giá vé 80/2 vé ổn , bắp tiền , 5k gửi xe enjoy 1 đêm thú_vị .
+{'label': 'LABEL_0', 'score': 0.5384586453437805}
+0.0
+LABEL_1
+Mình ăn_ở đdây 2 . Thấy ngon . Gà hơi . Mình khoai_tây . Vừa_miệng . Phụ vụ ôkii
+{'label': 'LABEL_0', 'score': 0.5219969749450684}
+0.375
+LABEL_1
+Qua ́ n na ̀ y gâ ̀ n nha ̀ nho ̉ ̣ n mi ̀ nh cu ̃ ng toa ̀ n mua vê ̀ vi ̀ kha ́ đông pha ̉ i đơ ̣ i ́ n hơi nho ̉ i ́ t chô ̃ ngô ̀ i . Thi ̣ t ươ ́ p ngon , co ́ te ́ p mơ ̃ , ́ nh tra ́ ng nươ ́ ng gio ̀ n . Chu ̉ ́ n go ̣ i kha ́ ch la ̀ đe ̣ p
+{'label': 'LABEL_1', 'score': 0.5644495487213135}
+0.0
+LABEL_1
+Mình thử mì udon , miến trộn , bánh gạo trứng . 3 món 100k , 10% foody e card , 90k thui , no_nê lun Miến trộn hơi mặn , mì udon , bánh gạo bình_thường ^ ^ Nói_chung đc
+{'label': 'LABEL_0', 'score': 0.5384588837623596}
+0.0
+LABEL_1
+Không_gian quán độc_đáo ấn_tượng . Nhân_viên phục_vụ tận_tình . Đồ mắc lắm . Làm bánh thì_có hướng_dẫn kĩ . Quán cảnh đẹp shooting : 3 . Khá ấn_tượng quán ăn_mặc nhân_viên từ_ngữ .
+{'label': 'LABEL_1', 'score': 0.5112523436546326}
+-0.5
+LABEL_0
+Phục_vụ xinh_xắn , sản_phẩm , quán đề_xuất chuyến phuợt , gọi hơi
+{'label': 'LABEL_0', 'score': 0.5085138082504272}
+0.5
+LABEL_1
+Qua ́ n na ̀ y ̉ lê ̀ đươ ̀ ng kha ́ đông . Gia ́ re ̉ đô ̀ cu ̃ ng i ́ t ! Nhân_viên phu ̣ c vu ̣ châ ̣ m cư ̣ c ki ̀ , viê ̣ c gi ̀ cu ̃ ng . Điê ̉ m ̣ ng la ̀ nêm nê ́ m vư ̀ a miê ̣ ng , cơm_lam cu ̃ ng kha ́ ngon
+{'label': 'LABEL_0', 'score': 0.5265532732009888}
+0.0
+LABEL_1
+Giữa bàn vách ngăn , dắt ghệ đi ok . 2 5 món , 350k một_tí ( y ) Nói_chung rẻ ngon .
+{'label': 'LABEL_0', 'score': 0.5553191900253296}
+0.375
+LABEL_0
+Kem xôi dư ̀ a ngon , ngo ̣ t , thơm . Xôi mi ́ t hơi nga ́ n , ̉ chiên vơ ́ i nuoc châ ́ m ngon , la ̣ miê ̣ ng . Ca ́ c mo ́ n kia ta ̣ m đươ ̣ c . Không gian_phu ̀ hơ ̣ p đê ̉ đi ta ́ m vơ ́ i ̣ n be ̀
+{'label': 'LABEL_0', 'score': 0.5232188105583191}
+0.4375
+LABEL_1
+Menu đa da ̣ ng , uô ́ ng kha ́ ngon , gia ́ ca ̉ ta ̣ m ô ̉ n . Decor ́ n đe ̣ p , pha ̉ i gư ̉ i xe kia đươ ̀ ng
+{'label': 'LABEL_0', 'score': 0.5514996647834778}
+0.375
+LABEL_1
+Hấp diêm thị_giác thậtttt : 3 Cái hốt vô bụngggggg : ( ( (
+{'label': 'LABEL_1', 'score': 0.5379520058631897}
+0.0
+LABEL_0
+Quán bún đậu ngon , bún ngon , cuộn chặt , săn sợi . Mình gọi combo món ngon , món rán ngọt_lịm , non rán fải dai giòn ko fải kiểu dai fải nuôt chửng ( trc món nhả bã nuốt_chửng ẹc ẹc ) . Giá_cả fải , cơ_quan , . À p / s mẹt combo ko đc đầy_đặn đc ảnh , mèo no . Con_trai khỏe có_lẽ hơi ... đói : v
+{'label': 'LABEL_0', 'score': 0.5715755224227905}
+0.46875
+LABEL_0
+Qua ́ n tô ́ i , vi ̣ tri ́ thuâ ̣ n lơ ̣ i , muô ́ n đê ́ n pha ̉ i vo ̀ ng xe hoă ̣ c xuô ́ ng dô ́ c bâ ́ t tiê ̣ n Kem xôi ngon ́ i ́ t , tâ ̣ n 15k Che ̀ tha ́ i dơ ̉ tê ̣ , nha ̣ t nhe ̃ o ̉ vi ̣ gi ̀ , thê ́ ma ̀ ́ n nô ̉ i tiê ́ ng ? Tư ̀ ́ n na ̀ y che ̀ tha ́ i đô ̣ i câ ́ n hoă ̣ c ô chơ ̣ dư ̀ a ngon nhiê ̀ u
+{'label': 'LABEL_0', 'score': 0.5099285244941711}
+0.0
+LABEL_1
+View đẹp , chụp hình . Khá bánh_mì Tây siêu_thị . : )
+{'label': 'LABEL_0', 'score': 0.5506268739700317}
+0.625
+LABEL_1
+Không_gian quán rộng_rãi , thích_hợp họp bạn_bè . Bãi xe ok . Các món giá vừa_phải , phục_vụ nhanh_nhẹn , nhiệt_tình chất_lượng âm_thanh tạm ổn mấy . Nếu họp ghé karaoke .
+{'label': 'LABEL_0', 'score': 0.5488776564598083}
+0.5
+LABEL_0
+🔹 Không_gian đẹp , nhẹ_nhàng , xinh , đi 1 đi bạn_bè kiểu ổn 👯 👭 👫 🔹 Bánh vị trà sữa thái 👏 🏻 1 trà sữa thái trc = ) ) ) nchung bánh lhas ổn nha 🔹 Trà sữa thái ... Cực_kì chán í 😭 nhạt_phèo k vị 🔹 Nv phục_vụ cx đc k xuất_sắc k tệ đâuu
+{'label': 'LABEL_0', 'score': 0.5992785692214966}
+0.0625
+LABEL_1
+Được bạn_bè giới_thiệu quán kem lạ thưởng_thức . Không_gian quán rộng vắng . Phục_vụ happy lắm , đi quán chụp hình giới_thiệu bạn_bè , quán chụp hình menu , giới_thiệu bạn_bè . Về món kem giới_thiệu là_lạ lạ . Mình order kem trà xanh kem sầu_riêng sương sáo đậu_đỏ . Kem kem , nhạt , . Mình đậu_đỏ ngon mềm .
+{'label': 'LABEL_1', 'score': 0.5103086829185486}
+-0.35
+LABEL_1
+Vào , phục_vụ thái_độ pha_chế thức uống . Nhân_viên tươi_cười chào cảm_giác thân_thiện , phục_vụ nhiệt_tình . Munhf gọi bingsu trà xanh , cục kẹo đấy béo_béo . Bánh crep chuối hơi ớn ok . Tóm_lại chỗ
+{'label': 'LABEL_0', 'score': 0.5019609928131104}
+0.16666666666666666
+LABEL_0
+Thức uống Highlands ngon , không_gian mở_rộng , thoải_mái . Có_điều dạo thức uống ly thuỷ_tinh kiểu take away . Mặc_dù tiện đấy uống ly thuỷ_tinh ! Nhìn đẹp lịch_sự .
+{'label': 'LABEL_0', 'score': 0.5235905647277832}
+0.5
+LABEL_0
+Kem ngon lắm . Pvu bưng tan thành . Kem : ) Phần 30k thử đc gọi món .
+{'label': 'LABEL_1', 'score': 0.5753793120384216}
+-0.0625
+LABEL_1
+Đến quán mấy đồ_ăn ngon mắc lắm no mấy trăm_nghìn đô . Không_gian quán đẹp chút họp chụp hình sướng .
+{'label': 'LABEL_0', 'score': 0.5310432314872742}
+0.625
+LABEL_1
+Vì đi ngang , nổi_tiếng quán đông , quyết_định thử ( 1 ghiền thịt bò quán trông hấp_dẫn ) Điểm cộng quán , trừ hàng_loạt : ( - ) quán đông , sắp_xếp ghế nhiệt_tình lắm , cộng lau bàn qua_loa sơ_sài ( - ) bò mềm , ok , pa tê dở ( - ) phục_vụ ko tươi_tắn mấy ? ? Ngoài_ra giá_cả ko mắc , không_gian thoáng , phục_vụ dễ_thương , quán . ^ ^ < a class = ' hashtag-link ' href = ' / ho-chi-minh/hashtag/beefsteak-1095 ' > # beefsteak </a>
+{'label': 'LABEL_1', 'score': 0.577501118183136}
+-0.125
+LABEL_1
+Đến 2 chiều cỡ 3-4h đông . Quán ấm_cúng Điểm trừ : chuột , gián Nước uống ngon , dịp thử đồ_ăn
+{'label': 'LABEL_0', 'score': 0.5104081034660339}
+0.375
+LABEL_1
+( - ) Địa_điểm : Đi lộn đường mấy = = Vì đi huốt lắm , quán bảng_hiệu " Bottle_Coffee " , " The_Chai " 😅 Đi_Trần_Hưng_Đạo kím hẻm 393 quẹo , quán tay_trái ( Vì hẻm 393 ngắn lắm cẩn_thận kẻo chạy huốt nha 😁 ) Không_gian : Nhỏ , kiểu chung_cư sửa í , cầu_thang nhỏ_xíu đi té 😭 Giá_cả : Mình hơi mắc chất_lượng 😔 ( + ) Phục_vụ : Khá nhiệt_tình 👍 Trang_trí quán : Đẹp ☺ ️ Kiểu art : ) ) mấy góc chụp hình đẹp ✌ ️
+{'label': 'LABEL_0', 'score': 0.5672827363014221}
+0.625
+LABEL_1
+Mỗi bún_bò sông hương tat cai xe đá bào ah . Ngon là_lạ , hy_vọng a chủ quán thuê dc mặt_bằng to
+{'label': 'LABEL_1', 'score': 0.5757147073745728}
+-0.625
+LABEL_1
+Mình ghé cửa_hàng bay tuần . Chẳng_qua tình_cờ thử . Quán nổi_bật mấy . Được_cái không_khí ấm_cúng . Các thịt nướng tương_đối đa_dạng , rau , kim_chi , cơm súp kèm . Nhưng 1 1 . Nếu 2 ăn_đủ gọi cơm thịt : ) ) ) ) hơi = ) ) ) ) ) ) ) ) ) ) ) )
+{'label': 'LABEL_0', 'score': 0.5913940072059631}
+0.0
+LABEL_1
+Hôm_nay đi thử quán quán yên_tĩnh thích_hợp việ học thấty mn nc dám mn toàn_tập trung_học nhạc thích_hợp học đi trò_chuyện . Nói nge trà sữa xanh ngon uống thử sữa_tươi trà thái nguyên_chất ngon mấy
+{'label': 'LABEL_0', 'score': 0.5785790681838989}
+0.26785714285714285
+LABEL_0
+Nói_chung đồ uống ngon , đông . Giá_cả vừa_phải .
+{'label': 'LABEL_0', 'score': 0.5362547039985657}
+0.375
+LABEL_1
+Quán bày trí không_gian , thích_hợp đi 2 3 . Không thích_hợp đi số_lượng đông . Đồ uống ngon giá_cả ok đông order hơi . Có món tầm 30 phút ... nhân_viên quán dễ_chịu dễ_thương ... . tạm thông_cảm quán . . ghé
+{'label': 'LABEL_0', 'score': 0.5771268606185913}
+0.65625
+LABEL_0
+Quán_ăn hồi học_sinh rẻ xưa
+{'label': 'LABEL_1', 'score': 0.5957247614860535}
+0.0
+LABEL_1
+Khoan đồ_ăn , ấn_tượng quán xinh . Nhân_viên xinh , mặc bộ_đồ masterchef chạy chạy phục_vụ . Đá bào ngon , mịn , topping bình_thường bao chỗ . Mà tiếc thử tô đá bào to tổ mẹ . Lần ghé dc .
+{'label': 'LABEL_0', 'score': 0.5149216651916504}
+0.40625
+LABEL_0
+Cgv chật_chội ổn . Nhân_viên vé nhiệt_tình thân_thiện nhanh_nhẹn , 10 chất_lượng
+{'label': 'LABEL_0', 'score': 0.5308404564857483}
+0.375
+LABEL_0

@@ -49,35 +49,37 @@ model = AutoModelForSequenceClassification.from_pretrained(
 )
 model = get_peft_model(model, peft_config)
 
-args = TrainingArguments(
-    output_dir="./checkpoints",
-    overwrite_output_dir=True,
-    evaluation_strategy="epoch",
-    per_device_eval_batch_size=64,
-    per_device_train_batch_size=64,
-    optim="adamw_torch_fused",
-    tf32=True,
-    learning_rate=5e-5,
-    weight_decay=0.01,
-    num_train_epochs=10,
-    logging_strategy="epoch",
-    save_strategy="epoch",
-    dataloader_num_workers=10,
-    remove_unused_columns=False,
-)
+print(model.print_trainable_parameters())
 
-args.set_dataloader(auto_find_batch_size=True)
+# args = TrainingArguments(
+#     output_dir="./checkpoints",
+#     overwrite_output_dir=True,
+#     evaluation_strategy="epoch",
+#     per_device_eval_batch_size=64,
+#     per_device_train_batch_size=64,
+#     optim="adamw_torch_fused",
+#     tf32=True,
+#     learning_rate=5e-5,
+#     weight_decay=0.01,
+#     num_train_epochs=10,
+#     logging_strategy="epoch",
+#     save_strategy="epoch",
+#     dataloader_num_workers=10,
+#     remove_unused_columns=False,
+# )
 
-trainer = Trainer(
-    model=model,
-    args=args,
-    tokenizer=tokenizer,
-    train_dataset=dataset["train"],
-    eval_dataset=dataset["validation"],
-    compute_metrics=compute_metrics,
-)
+# args.set_dataloader(auto_find_batch_size=True)
 
-trainer.train()
+# trainer = Trainer(
+#     model=model,
+#     args=args,
+#     tokenizer=tokenizer,
+#     train_dataset=dataset["train"],
+#     eval_dataset=dataset["validation"],
+#     compute_metrics=compute_metrics,
+# )
 
-merged_model = model.merge_and_unload()
-merged_model.save_pretrained("SentimentPhoBERT-LoRA-256/")
+# trainer.train()
+
+# merged_model = model.merge_and_unload()
+# merged_model.save_pretrained("SentimentPhoBERT-LoRA-256/")
